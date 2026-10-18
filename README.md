@@ -83,8 +83,6 @@ result: keep building
 
 [![GitHub](https://img.shields.io/badge/GitHub-ravigayanga2004--droid-181717?style=for-the-badge&logo=github)](https://github.com/ravigayanga2004-droid)
 
-![Contribution Snake](https://raw.githubusercontent.com/ravigayanga2004-droid/ravigayanga2004-droid/output/github-contribution-grid-snake-dark.svg)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB86C,50:00C2A8,100:6C63FF&height=100&section=footer&animation=twinkling" alt="Animated gradient footer" />
 
 </div>
