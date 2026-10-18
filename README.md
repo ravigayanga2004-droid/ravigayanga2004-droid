@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2A8,100:FFB86C&height=180&section=header&text=Ravigayanga.exe&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Animated gradient header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2A8,100:FFB86C&height=180&section=header&text=Ravindu.exe&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Animated gradient header" />
 
 # Hey, I'm Ravindu 👋
 
