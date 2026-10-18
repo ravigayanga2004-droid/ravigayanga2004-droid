@@ -1,11 +1,25 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2A8,100:FFB86C&height=180&section=header&text=Ravigayanga.exe&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Animated gradient header" />
+
 # Hey, I'm Ravigayanga 👋
 
-### I build tools that make computers a little safer — and games a lot faster.
+### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=00C2A8&center=true&vCenter=true&width=650&lines=Defensive+tools+%7C+Browser+worlds+%7C+Curious+experiments;Making+computers+safer+and+games+faster;Currently+compiling+something+fun..." alt="Animated typing introduction" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=ravigayanga2004-droid&style=for-the-badge&color=6C63FF)](https://github.com/ravigayanga2004-droid)
 [![GitHub followers](https://img.shields.io/github/followers/ravigayanga2004-droid?style=for-the-badge&color=00C2A8)](https://github.com/ravigayanga2004-droid?tab=followers)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430" alt="Animated coding scene" />
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=500&color=FFB86C&center=true&vCenter=true&width=500&lines=%24+build+--ship+--repeat;%5Bok%5D+idea+loaded;%5Bok%5D+fun+feature+enabled" alt="Animated terminal status" />
 
 </div>
 
@@ -46,6 +60,10 @@ I like projects that are useful, understandable, and a little bit over-engineere
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravigayanga2004-droid&layout=compact&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=E6EDF3" alt="Ravigayanga's most used languages" />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ravigayanga2004-droid&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FFB86C&currStreakLabel=00C2A8" alt="GitHub contribution streak" />
+</div>
+
 ## A tiny terminal from my brain
 
 ```text
@@ -66,5 +84,7 @@ result: keep building
 [![GitHub](https://img.shields.io/badge/GitHub-ravigayanga2004--droid-181717?style=for-the-badge&logo=github)](https://github.com/ravigayanga2004-droid)
 
 ![Contribution Snake](https://raw.githubusercontent.com/ravigayanga2004-droid/ravigayanga2004-droid/output/github-contribution-grid-snake-dark.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB86C,50:00C2A8,100:6C63FF&height=100&section=footer&animation=twinkling" alt="Animated gradient footer" />
 
 </div>
