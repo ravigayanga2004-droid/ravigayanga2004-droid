@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:00C2A8,100:FFB86C&height=180&section=header&text=Ravigayanga.exe&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Animated gradient header" />
 
-# Hey, I'm Ravigayanga 👋
+# Hey, I'm Ravindu 👋
 
 ### <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=700&color=00C2A8&center=true&vCenter=true&width=650&lines=Defensive+tools+%7C+Browser+worlds+%7C+Curious+experiments;Making+computers+safer+and+games+faster;Currently+compiling+something+fun..." alt="Animated typing introduction" />
 
