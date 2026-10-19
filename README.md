@@ -42,6 +42,7 @@ I like projects that are useful, understandable, and a little bit over-engineere
 
 | Project | What it does |
 | --- | --- |
+| [**LogSentinel AI**](https://github.com/ravigayanga2004-droid/LogSentinel-AI) | An AI-powered log anomaly detection platform with explainable security insights and real-time dashboards. |
 | [**TraceGuard**](https://github.com/ravigayanga2004-droid/TraceGuard) | A local-first file integrity monitor and security auditing tool for cybersecurity education. |
 | [**DDoS Sentinel**](https://github.com/ravigayanga2004-droid/ddos-sentinel) | A safe defensive lab for learning traffic observation, detection, and reversible mitigation. |
 | [**Canyon Charge**](https://github.com/ravigayanga2004-droid/Car-Game-Prototype) | A Three.js arcade racer with canyon tracks, power boosts, AI rivals, and ghost racing. |
